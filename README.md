@@ -7,6 +7,7 @@ Soy especialista en infraestructura.
 
 * Actualmente trabajo como consultor independiente en operaciones y en infraestructura.
 * Doy capacitaciones en infraestructuras de Datacenter y Networking
+* Kubernetes Fanatic :)
 
 ### Trabajo fuerte en:
 
